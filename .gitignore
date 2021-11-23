@@ -3,3 +3,5 @@
 /project/target
 /project/project
 /src/main/scala/data/
+.metals/
+src/main/scala/.DS_Store
